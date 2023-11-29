@@ -1,0 +1,8 @@
+#slider-fit {
+    position: relative;
+    top: 0px;
+    padding: 0 16px;
+}
+#slider-fit .noUi-connect {
+    background: #23af67;
+}
